@@ -1,121 +1,103 @@
 <div align="center">
 
+<img src="https://github.com/user-attachments/assets/a55dd9d9-b874-412b-8d74-ee4bc2db493f" width="100%" style="border-radius: 10px;" alt="OldGrowtopia Banner">
+
 # 🌳 OldGrowtopia
-**The Ultimate Classic Growtopia Private Server Experience**
+**The Ultimate Classic Growtopia Experience**
 
-[![Website](https://img.shields.io/badge/Official_Website-oldgrowtopia.com-2ea44f?style=for-the-badge&logo=google-chrome)](https://oldgrowtopia.com/)
+[![Play Now](https://img.shields.io/badge/Play_Now-oldgrowtopia.com-2ea44f?style=for-the-badge&logo=google-chrome)](https://oldgrowtopia.com/)
 [![Status](https://img.shields.io/badge/Server_Status-ONLINE-success?style=for-the-badge&logo=serverless)](https://oldgrowtopia.com/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Android%20%7C%20iOS-blue?style=for-the-badge&logo=apple)](#)
-[![Community](https://img.shields.io/badge/Community-Active-ff69b4?style=for-the-badge&logo=discord)](#)
+[![Platforms](https://img.shields.io/badge/Platforms-Windows%20%7C%20Android%20%7C%20iOS-blue?style=for-the-badge&logo=apple)](#)
 
-*Build, farm, and trade in a nostalgic sandbox MMO world. No inflation, no modern clutter—just the pure Growtopia you remember.*
-
-[Play Now](https://oldgrowtopia.com/) • [Create GrowID](https://oldgrowtopia.com/) • [Report a Bug](#) • [Discord](#)
+*No inflation. No modern clutter. Just the pure, nostalgic sandbox you remember.*
 
 </div>
 
-<br>
+---
 
-## 🌐 Website & Web Panel
+## 👋 Welcome Back to the Golden Era
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="100%" alt="OldGrowtopia Official Website" src="https://github.com/user-attachments/assets/a55dd9d9-b874-412b-8d74-ee4bc2db493f" />
-      <br><b>Official Website</b>
-    </td>
-    <td align="center">
-      <img width="100%" alt="OldGrowtopia Web Panel" src="https://github.com/user-attachments/assets/47dad494-28d1-4e06-80e0-18a6d9b8b6a1" />
-      <br><b>Account Creation Panel</b>
-    </td>
-  </tr>
-</table>
+**OldGrowtopia** is a custom-built private server designed to bring back the original magic of Growtopia. We stripped away the overwhelming modern updates and restored the classic economy, authentic splicing mechanics, and original community vibe. 
 
-## 📖 Overview
+Whether you want to farm gems, build massive pixel-art worlds, or dominate the trade market—this is your new home.
 
-**OldGrowtopia** is a custom-built, highly optimized **Growtopia Private Server** designed to resurrect the golden era of the classic 2D sandbox MMO. We have meticulously recreated the original game mechanics, economy, and community feel, stripping away the overwhelming modern updates to provide a pure, nostalgic gameplay experience.
+## 🚀 How to Play (In 3 Simple Steps)
 
-Whether you are an old veteran looking to rebuild your pixel-art empire, or a new player wanting to experience the game as it was originally intended, OldGrowtopia is your new home.
+Getting started takes less than 2 minutes:
 
-## ✨ Why OldGrowtopia? (Features)
-
-Unlike other GT private servers, OldGrowtopia focuses on stability, a balanced economy, and an authentic classic feel.
-
-| Feature | Description |
-| :--- | :--- |
-| 🛡️ **Stable Architecture** | Built for high concurrency with virtually zero lag, ensuring smooth block-breaking and precise movement. |
-| 💎 **Classic Economy** | A fully player-driven market. World Locks and Gems hold their true original value. No hyper-inflation. |
-| 🔐 **Secure GrowID System** | Fully independent and secure web-based account management via [oldgrowtopia.com](https://oldgrowtopia.com/). |
-| 🌍 **Cross-Platform Play** | Seamlessly connect and play together from your PC (Windows) or Mobile (Android/iOS). |
-| 🛠️ **Authentic Mechanics** | Original splicing recipes, classic item tiers, and the nostalgic farming loop you miss. |
-
-## 🚀 How to Connect & Play
-
-Getting started is incredibly easy. Follow these steps to jump into the game within minutes:
-
-### Step 1: Account Creation
-Visit our official portal and register your classic account:
-👉 **[Create Your GrowID Here](https://oldgrowtopia.com/)**
-
-### Step 2: Client Setup
-1. Download our custom **Host Modifier / Proxy** or the **Custom Client** directly from our website.
-2. Ensure your device is routing traffic to `oldgrowtopia.com`.
-3. Launch the game, log in with your newly created GrowID, and enter a world!
-
-*(Detailed connection guides for Windows, Android, and iOS are available on the website).*
-
-## 📸 Gameplay Gallery
-
-Take a trip down memory lane. Here is what you can expect inside OldGrowtopia:
-
-<details>
-<summary><b>Click to expand and view the gallery</b></summary>
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="100%" alt="OldGrowtopia Gameplay - Classic World" src="https://github.com/user-attachments/assets/6b2a50f6-4dbb-4b04-ba5a-abcdaa1daf1c" />
-      <br><b>Exploring Classic Worlds</b>
-    </td>
-    <td align="center">
-      <img width="100%" alt="OldGrowtopia Gameplay - Farming" src="https://github.com/user-attachments/assets/5bde8c7e-6035-4b11-91b2-951152c0d660" />
-      <br><b>Farming & Building Mechanics</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="100%" alt="OldGrowtopia Gameplay - Trading" src="https://github.com/user-attachments/assets/d2c2fcbf-b70e-4377-9888-4ee220ed7952" />
-      <br><b>Player-Driven Economy & Trading</b>
-    </td>
-    <td align="center">
-      <img width="100%" alt="OldGrowtopia Gameplay - UI" src="https://github.com/user-attachments/assets/662241df-3b42-4326-aeb5-d97074df729e" />
-      <br><b>The Nostalgic User Interface</b>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-## 🔧 Technical Information (For Developers)
-
-This repository serves as the official landing page and issue tracker for the OldGrowtopia server. 
-* **Server Type:** Custom C++/ENet based Private Server Emulator.
-* **Database:** Highly optimized relational database for instant inventory and world-state saves.
-* **Status:** Actively maintained.
-
-> **Found a bug or have a suggestion?** Please open a detailed issue in the [Issues tab](../../issues) of this repository.
-
-## 🤝 Community & Support
-
-Join the largest growing classic GT community! Connect with other players, find trading partners, and get direct support from the moderation team.
-
-* 🌐 **Website:** [oldgrowtopia.com](https://oldgrowtopia.com/)
-* 💬 **Discord:** *(Link coming soon)*
-* 🛡️ **Support:** Support tickets can be opened via our website dashboard.
+1. 📝 **Create your GrowID:** Head over to our [Web Panel](https://oldgrowtopia.com/) and register your secure account.
+2. 📥 **Download & Connect:** Grab our custom client or proxy from the website. It works seamlessly on Windows, Android, and iOS.
+3. 🎮 **Start Building:** Launch the game, log in, punch some dirt, and claim your first World Lock!
 
 ---
 
+## 💻 Web Panel & Account Security
+
+Manage your account safely through our modern and dedicated web infrastructure. Your data and progress are always secure.
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://oldgrowtopia.com/"><img width="100%" alt="Official Website" src="https://github.com/user-attachments/assets/a55dd9d9-b874-412b-8d74-ee4bc2db493f" /></a>
+      <br><b>✨ The Official Hub</b>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://oldgrowtopia.com/"><img width="100%" alt="Web Panel" src="https://github.com/user-attachments/assets/47dad494-28d1-4e06-80e0-18a6d9b8b6a1" /></a>
+      <br><b>🔐 Secure Account Creation</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ✨ Server Features
+
+* 🛡️ **Lag-Free Architecture:** Custom C++/ENet core built for high performance and precise block-breaking.
+* 💎 **Original Economy:** Player-driven market where World Locks actually mean something. 
+* 🌍 **Cross-Platform:** Play with your friends whether you are on a PC or a mobile device.
+* 🛠️ **Classic Mechanics:** Original item tiers, nostalgic farming loops, and authentic physics.
+
+---
+
+## 📸 In-Game Showcase
+
+Take a look at what is waiting for you inside the game:
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" alt="Classic Worlds" src="https://github.com/user-attachments/assets/6b2a50f6-4dbb-4b04-ba5a-abcdaa1daf1c" />
+      <br><b>Explore Classic Worlds</b>
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" alt="Farming" src="https://github.com/user-attachments/assets/5bde8c7e-6035-4b11-91b2-951152c0d660" />
+      <br><b>Farming & Building</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" alt="Trading" src="https://github.com/user-attachments/assets/d2c2fcbf-b70e-4377-9888-4ee220ed7952" />
+      <br><b>Real Trading System</b>
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" alt="Interface" src="https://github.com/user-attachments/assets/662241df-3b42-4326-aeb5-d97074df729e" />
+      <br><b>Nostalgic User Interface</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Community & Support
+
+Join the fastest-growing classic GT community! Connect with other players, find trading partners, and stay updated.
+
+* 🌐 **Website:** [oldgrowtopia.com](https://oldgrowtopia.com/)
+* 💬 **Discord:** Join our active community *(Link coming soon)*
+* 🐛 **Bug Reports:** Open an issue in the [Issues tab](../../issues) of this repository.
+
+<br>
+
 <div align="center">
-  <p><b>Disclaimer:</b> OldGrowtopia is an independent fan project and educational private server emulator. It is not affiliated with, endorsed, or sponsored by Ubisoft or the original creators of Growtopia.</p>
+  <sub><b>Disclaimer:</b> OldGrowtopia is an independent, educational private server emulator. It is not affiliated with, endorsed, or sponsored by Ubisoft or the original creators of Growtopia.</sub>
 </div>
