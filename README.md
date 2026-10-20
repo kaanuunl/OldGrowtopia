@@ -59,33 +59,6 @@ Manage your account safely through our modern and dedicated web infrastructure. 
 
 ---
 
-## 📸 In-Game Showcase
-
-Take a look at what is waiting for you inside the game:
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" alt="Classic Worlds" src="https://github.com/user-attachments/assets/6b2a50f6-4dbb-4b04-ba5a-abcdaa1daf1c" />
-      <br><b>Explore Classic Worlds</b>
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" alt="Farming" src="https://github.com/user-attachments/assets/5bde8c7e-6035-4b11-91b2-951152c0d660" />
-      <br><b>Farming & Building</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" alt="Trading" src="https://github.com/user-attachments/assets/d2c2fcbf-b70e-4377-9888-4ee220ed7952" />
-      <br><b>Real Trading System</b>
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" alt="Interface" src="https://github.com/user-attachments/assets/662241df-3b42-4326-aeb5-d97074df729e" />
-      <br><b>Nostalgic User Interface</b>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🤝 Community & Support
